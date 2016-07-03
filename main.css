@@ -1,0 +1,12 @@
+.cyclistName{
+    font-family: sans-serif;
+    font-size: 75%;
+}
+
+.doping {
+    fill: red;
+}
+
+.notDoping {
+    fill: blue;
+}
